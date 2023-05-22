@@ -1,5 +1,5 @@
-# Esmaeil kalantari
-
+# About me
+I am Esmaeil Kalantari. I´ve studied **Chemie** in _Iran_ and learned how to code with Matlab. 
 
 <!--
 **Esmaeilkalantari/Esmaeilkalantari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
